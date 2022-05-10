@@ -16,8 +16,8 @@ export const FirstSection = styled.section`
 
 export const StyledHeader = styled.header`
   display: flex;
-  column-gap: 20px;
   flex-direction: row;
+  column-gap: 20px;
   align-items: center;
   height: 819px;
   margin: 0 auto;
